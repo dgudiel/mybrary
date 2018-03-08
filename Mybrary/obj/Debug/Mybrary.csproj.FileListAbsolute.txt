@@ -25,3 +25,5 @@ F:\OneDrive\Documents\Visual Studio 2017\source\repos\Mybrary\Mybrary\obj\Debug\
 F:\OneDrive\Documents\Visual Studio 2017\source\repos\Mybrary\Mybrary\obj\Debug\Mybrary.csproj.CoreCompileInputs.cache
 F:\OneDrive\Documents\Visual Studio 2017\source\repos\Mybrary\Mybrary\obj\Debug\Mybrary.exe
 F:\OneDrive\Documents\Visual Studio 2017\source\repos\Mybrary\Mybrary\obj\Debug\Mybrary.pdb
+F:\OneDrive\Documents\Visual Studio 2017\source\repos\Mybrary\Mybrary\obj\Debug\Mybrary.csproj.CopyComplete
+F:\OneDrive\Documents\Visual Studio 2017\source\repos\Mybrary\Mybrary\obj\Debug\Mybrary.ResultItem.resources

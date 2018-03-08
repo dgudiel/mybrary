@@ -1,16 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Google.Apis.Books.v1;
+using Google.Apis.Services;
+using System;
+using System.Configuration;
 using System.Windows.Forms;
 
 namespace Mybrary
 {
     static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        public static BooksService service = new BooksService(new BaseClientService.Initializer()
+        {
+            ApplicationName = ConfigurationManager.AppSettings["appName"],
+            ApiKey = ConfigurationManager.AppSettings["apiKey"]
+        });
+
         [STAThread]
         static void Main()
         {
